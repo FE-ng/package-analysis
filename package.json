@@ -1,0 +1,11 @@
+{
+  "name": "package-analysis",
+  "version": "0.1.0",
+  "description": "package-analysis is about....",
+  "author": "liufeng <fengliu018@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "buffer": "^5.4.3",
+    "ignore": "^5.1.4"
+  }
+}
