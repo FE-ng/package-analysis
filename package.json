@@ -5,7 +5,7 @@
   "author": "liufeng <fengliu018@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "base64-js": "^0.0.1",
+    "base64-js": "~0.0.1",
     "buffer": "^5.4.3",
     "ignore": "^5.1.4"
   }
